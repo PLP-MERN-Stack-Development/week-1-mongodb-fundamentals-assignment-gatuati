@@ -1,0 +1,15 @@
+# PLP Bookstore MongoDB Project
+
+This project demonstrates MongoDB operations for a bookstore database.
+
+## Files
+
+1. `insert_books.js` - Script to populate the MongoDB collection with sample book data
+2. `queries.js` - Contains all the MongoDB queries for the assignment tasks
+
+## How to Run
+
+1. Make sure you have MongoDB installed and running locally on port 27017
+2. Install the required dependencies:
+   ```bash
+   npm install mongodb
